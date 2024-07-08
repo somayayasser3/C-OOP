@@ -1,0 +1,9 @@
+E:\Route Backend .net\03 - C# OOP\Session 01 (6-7-2024)\Assignments\OPPDemo1\Common\bin\Debug\netstandard2.0\Common.deps.json
+E:\Route Backend .net\03 - C# OOP\Session 01 (6-7-2024)\Assignments\OPPDemo1\Common\bin\Debug\netstandard2.0\Common.dll
+E:\Route Backend .net\03 - C# OOP\Session 01 (6-7-2024)\Assignments\OPPDemo1\Common\bin\Debug\netstandard2.0\Common.pdb
+E:\Route Backend .net\03 - C# OOP\Session 01 (6-7-2024)\Assignments\OPPDemo1\Common\obj\Debug\netstandard2.0\Common.csprojAssemblyReference.cache
+E:\Route Backend .net\03 - C# OOP\Session 01 (6-7-2024)\Assignments\OPPDemo1\Common\obj\Debug\netstandard2.0\Common.csproj.CoreCompileInputs.cache
+E:\Route Backend .net\03 - C# OOP\Session 01 (6-7-2024)\Assignments\OPPDemo1\Common\obj\Debug\netstandard2.0\Common.AssemblyInfoInputs.cache
+E:\Route Backend .net\03 - C# OOP\Session 01 (6-7-2024)\Assignments\OPPDemo1\Common\obj\Debug\netstandard2.0\Common.AssemblyInfo.cs
+E:\Route Backend .net\03 - C# OOP\Session 01 (6-7-2024)\Assignments\OPPDemo1\Common\obj\Debug\netstandard2.0\Common.dll
+E:\Route Backend .net\03 - C# OOP\Session 01 (6-7-2024)\Assignments\OPPDemo1\Common\obj\Debug\netstandard2.0\Common.pdb

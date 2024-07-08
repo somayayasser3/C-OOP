@@ -1,0 +1,14 @@
+E:\Route Backend .net\03 - C# OOP\Session 01 (6-7-2024)\Assignments\OPPDemo1\OPPDemo1\bin\Debug\netcoreapp2.1\OPPDemo1.deps.json
+E:\Route Backend .net\03 - C# OOP\Session 01 (6-7-2024)\Assignments\OPPDemo1\OPPDemo1\bin\Debug\netcoreapp2.1\OPPDemo1.runtimeconfig.json
+E:\Route Backend .net\03 - C# OOP\Session 01 (6-7-2024)\Assignments\OPPDemo1\OPPDemo1\bin\Debug\netcoreapp2.1\OPPDemo1.runtimeconfig.dev.json
+E:\Route Backend .net\03 - C# OOP\Session 01 (6-7-2024)\Assignments\OPPDemo1\OPPDemo1\bin\Debug\netcoreapp2.1\OPPDemo1.dll
+E:\Route Backend .net\03 - C# OOP\Session 01 (6-7-2024)\Assignments\OPPDemo1\OPPDemo1\bin\Debug\netcoreapp2.1\OPPDemo1.pdb
+E:\Route Backend .net\03 - C# OOP\Session 01 (6-7-2024)\Assignments\OPPDemo1\OPPDemo1\obj\Debug\netcoreapp2.1\OPPDemo1.csprojAssemblyReference.cache
+E:\Route Backend .net\03 - C# OOP\Session 01 (6-7-2024)\Assignments\OPPDemo1\OPPDemo1\obj\Debug\netcoreapp2.1\OPPDemo1.csproj.CoreCompileInputs.cache
+E:\Route Backend .net\03 - C# OOP\Session 01 (6-7-2024)\Assignments\OPPDemo1\OPPDemo1\obj\Debug\netcoreapp2.1\OPPDemo1.AssemblyInfoInputs.cache
+E:\Route Backend .net\03 - C# OOP\Session 01 (6-7-2024)\Assignments\OPPDemo1\OPPDemo1\obj\Debug\netcoreapp2.1\OPPDemo1.AssemblyInfo.cs
+E:\Route Backend .net\03 - C# OOP\Session 01 (6-7-2024)\Assignments\OPPDemo1\OPPDemo1\obj\Debug\netcoreapp2.1\OPPDemo1.dll
+E:\Route Backend .net\03 - C# OOP\Session 01 (6-7-2024)\Assignments\OPPDemo1\OPPDemo1\obj\Debug\netcoreapp2.1\OPPDemo1.pdb
+E:\Route Backend .net\03 - C# OOP\Session 01 (6-7-2024)\Assignments\OPPDemo1\OPPDemo1\bin\Debug\netcoreapp2.1\Common.dll
+E:\Route Backend .net\03 - C# OOP\Session 01 (6-7-2024)\Assignments\OPPDemo1\OPPDemo1\bin\Debug\netcoreapp2.1\Common.pdb
+E:\Route Backend .net\03 - C# OOP\Session 01 (6-7-2024)\Assignments\OPPDemo1\OPPDemo1\obj\Debug\netcoreapp2.1\OPPDemo1.csproj.CopyComplete
